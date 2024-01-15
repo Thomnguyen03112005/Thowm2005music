@@ -1,0 +1,33 @@
+{
+  "token": "",
+  "prefix": "!",
+  "developer": "788208207465938954",
+  "mongourl": "mongodb+srv://nguyenvinh:blackcat2k3@cluster0.bgyio.mongodb.net/xzx",
+  "_______________________": "________________________________",
+  "name" : "BlackCat-Club",
+  "avatar" : "https://cdn.discordapp.com/avatars/885451756593618944/fad45b659b3de3650d502ddd21ba2577.jpg",
+  "discordBot": "https://discord.com/api/oauth2/authorize?client_id=881709146695667773&permissions=8&scope=bot%20applications.commands",
+  "discord": "https://discord.gg/tSTY36dPWa",
+  "colors": {
+    "vang" : "#FFF700",
+    "color0": "#ff4d4d"
+  },
+  "_______________________": "________________________________",
+  "clientSecret": "a2a3e65a22b64357a6791b66cd1de4b5",
+  "clientId": "fc0d728b397c4f8398d2a13345c6d47c",
+  "youtubeCookie": "VISITOR_INFO1_LIVE=R_qi2x1CgIA; VISITOR_PRIVACY_METADATA=CgJWThIEGgAgXg%3D%3D; PREF=f7=4100&f4=4000000&tz=Asia.Saigon; HSID=AMiy-PT4KbLxO0aFa; SSID=AbvhjoHy0DWeFgTqB; APISID=8wXeESf89D9i_jvI/Au6wN-jJBR74PEWJL; SAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; __Secure-1PAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; __Secure-3PAPISID=UJxvdit_kuRRPO-b/ADp9kED_Qbc6Ibf4O; SID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxBaLPZaO1eQ8hRyMz4OlS0AACgYKAcwSAQASFQHGX2MiqBKZbjzqL0lPhPYCvUNQpRoVAUF8yKqT-JZbE7WpcQa9eIj9DAPL0076; __Secure-1PSID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxmtx5puhvCsd-KVeH43UJDQACgYKATISAQASFQHGX2MiUtKbddbHkSb51GIUngEOphoVAUF8yKo8FfyMLJpp5CpcBGlL2wla0076; __Secure-3PSID=g.a000fQjvIlLsu0_E6MZ2fjk3pOHWAfnWBkOM6jo92lu21hK5vGnxNIvDOQZURtXemtwipeTLgAACgYKAQ8SAQASFQHGX2MiOxqieLMis7xM6MOAyaku5RoVAUF8yKojQXw-ro-9YIJDy8Mqzn460076; YSC=IR4xDIbhLz4; wide=1; __Secure-1PSIDTS=sidts-CjEBPVxjSqkq2i63NCMCZ7pVArSHf-gtjTK7_ZnMlx3FypNEnpoYHanR7FjwH7dvmkxCEAA; __Secure-3PSIDTS=sidts-CjEBPVxjSqkq2i63NCMCZ7pVArSHf-gtjTK7_ZnMlx3FypNEnpoYHanR7FjwH7dvmkxCEAA; LOGIN_INFO=AFmmF2swRQIgca-SgWnrsMk6zS482nxqMZq4YarBIkw6xpXARdlw6EYCIQCqitgENtxwV2Yfy0wbjB51maeqZClzDnJllkzpL1UnAQ:QUQ3MjNmeDFmXzFjZlZEODYxNHpYNmgtZ05uWHIwQlFTUnVHa3FsWlRhZDBzSWw5eExobnpJRUhaelpzdnlfME45R3R1d3lHTUY2SHk5eVFDQ2lDSjZTdWs1SEFBNlFkV2pucGl0dFRLa3JKcTJhYUwwb1Q0SFlPVWkxMTNITHdpbm8wNmYxQ05uMVE2OC1FWGtXQV9hbVdfODdQSjZoVmFR; SIDCC=ABTWhQE1f15mCp3OhaNbk9O6WOXvW7Qky8b_2jv-5Yy_2yd-XMx8Qdd97MgiSIGwC3Hrhq6uFZs; __Secure-1PSIDCC=ABTWhQE0N5vYGsCKOzs8W-MR1SdSSMx_Duk85QRQo8RK5__OSfVLHQiUHDx8eWrbNjxBox4c6Q; __Secure-3PSIDCC=ABTWhQGYlkjccAcU7MdaC-LT5VCrnjNHqglP8VR7xRs0i-XItkVsd70FieYQUqJGNglpNxxFwIs",
+  "_______________________": "________________________________",
+  "dashboard": {
+    "dash": "CHỜ SỬA LỖI",
+    "supporteMail": "email hỗ trợ",
+    "ownerIDs": ["id của bạn"],
+    "useLicense": "ccae16a1-d263-4baa-93df-16c62db0af49",
+    "port": 80,
+    "client": {
+      "id": "bot Id",
+      "secret": "bot Secret"
+    },
+    "redirectUri": "https://  Tên miền  .com/discord/callback",
+    "domain": "https:// Tên miền .com"
+  }
+}
