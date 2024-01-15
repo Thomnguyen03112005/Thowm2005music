@@ -1,0 +1,30 @@
+{
+  "command": {
+    "description": "TicTacToe oyunu oyna",
+    "option-user": "Oynamak istediğiniz kullanıcı"
+  },
+  "duel": {
+    "title": ":crossed_swords: Yeni oyun",
+    "challenge": "**{initier}**, seni yeni bir oyuna davet etti!",
+    "action": "Oyun davetini kabul etmek veya reddetmek için bu mesaja tepki verin.",
+    "expire": ":x: `{invited}` cevap süresi doldu.",
+    "reject": ":x: `{invited}` oyun daveti reddedildi.",
+    "unknown-user": "Okullanıcıyı oyuna davet edemezsiniz.",
+    "no-bot": "Botlarla oynayamazsınız.",
+    "button": {
+      "accept": "Kabul Et",
+      "decline": "Reddet"
+    }
+  },
+  "game": {
+    "title": ":game_die: `{player1}` **VS** `{player2}`",
+    "action": "{player}, hamleni seç:",
+    "load": "Tepkiler yükleniyor, lütfen bekleyin...",
+    "end": "Oyunu kimse kazanamadı, berabere kaldı!",
+    "win": ":tada: {player} oyunu kazandı!",
+    "expire": ":x: Oyunun süresi **doldu**... Bir kullanıcının hareketsizliğinden olabilir...",
+    "in-progress": "Yeni bir oyuna başlamadan önce devam eden oyunun bitmesini beklemelisin.",
+    "waiting-ai": ":robot: hamle sırası Yapay Zeka'da, lütfen bekle...",
+    "ai": "Yapay Zeka"
+  }
+}
